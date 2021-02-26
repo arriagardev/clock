@@ -1,6 +1,8 @@
 # Clock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
+Single page with a clock that displays the user's current date and time preceded by a greeting according to the time of the day.
+
+##### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
 ## Development server
 
